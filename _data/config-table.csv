@@ -1,5 +1,7 @@
 field,display_name
-title,Title
+title,Identifier
 date,Date
 description,Description
+location,Location
+railroad,Railroad
 subject,Subjects
