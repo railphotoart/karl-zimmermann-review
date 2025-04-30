@@ -6,10 +6,10 @@ description,Description,
 railroad,Railroad,true
 subject,Subjects,true
 location,Location,true
-county,,true
-state,,true
-country,,true
-continent,,true
+county,County,true
+state,State/Province,true
+country,Country,true
+continent,Continent,true
 type,Type,
 format_of_oridinal,Format of Original
 dimensions,Dimensions
