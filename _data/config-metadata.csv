@@ -3,10 +3,15 @@ title,Title,
 creator,Creator,
 date,Date,
 description,Description,
+railroad,Railroad,true
 subject,Subjects,true
-location,Location
-identifier,Identifier,,
+location,Location,true
+county,,true
+state,,true
+country,,true
+continent,,true
 type,Type,
+format_of_oridinal,Format of Original
 dimensions,Dimensions
 rights,Rights,
 rightsstatement,Rights Statement,,true
