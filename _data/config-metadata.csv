@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link
-title,Identifier,,
+source,Container,true,
+title,Temporary Identifier,,
 creator,Creator,,
 date,Date,,
 description,Description,,
