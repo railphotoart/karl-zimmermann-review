@@ -5,7 +5,7 @@ location,Location,true,,
 country,Nation,true,,
 railroad,Railroad,true,,
 subject,Subject,,true,
-genrestyle, Genre/Style,true,,
+genrestyle,Genre/Style,,true,
 source,Container,true,,
 state,National Division,,true,
 
