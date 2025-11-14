@@ -7,3 +7,4 @@ subject,Subject,true,,
 genrestyle, Genre/Style,true,,
 source,Container,true,,
 state,National Division,,true,
+country,Nation,,true
