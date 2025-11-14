@@ -3,7 +3,7 @@ date,Date,,,Date
 creator,Creator,,true,
 location,Location,true,,
 railroad,Railroad,true,,
-subject,Subject,true,,
+subject,Subject,,true,
 genrestyle, Genre/Style,true,,
 source,Container,true,,
 state,National Division,,true,
