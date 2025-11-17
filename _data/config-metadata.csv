@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link
 source,Container,true,
+batch,Batch,true,
 title,Temporary Identifier,,
 creator,Creator,,
 date,Date,,
