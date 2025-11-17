@@ -11,16 +11,18 @@ layout: page
   
   </div>
   <div class="col-md-4">  
-
-    {% include index/time.html %}
-
+    
+    {% include index/objects.html %}
+    
     {% include index/featured-terms.html field="batch" title="Batches" btn-color="primary" %}
+
+    {% include index/featured-terms.html field="source" title="Containers" btn-color="primary" %}
+    
+    {% include index/time.html %}
 
     {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
 
-    {% include index/featured-terms.html field="railroad" title="Railroads" btn-color="outline-secondary" %}
-
-    {% include index/objects.html %}
+    
 
   </div>
   <div class="col-md-12">
