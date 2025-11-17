@@ -7,5 +7,5 @@ railroad,Railroad,true,,
 subject,Subject,,true,
 genrestyle,Genre/Style,,true,
 source,Container,true,,
+batch,Batch,true,,
 state,National Division,,true,
-
