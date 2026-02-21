@@ -8,3 +8,4 @@ location,true,false
 source,true,true
 genrestyle,true,false
 identifier,true,false
+railroad,true,false
