@@ -1,8 +1,8 @@
 field,display_name,browse_link,external_link
 source,Container,true,
 batch,Batch,true,
-title,Temporary Identifier,,
-identifier,Final Identifier,,
+title,Final Identifier,,
+identifier,Temporary/Former Identifier,,
 creator,Creator,,
 date,Date,,
 description,Description,,
